@@ -1,0 +1,1 @@
+1.) RESTful api er forrit sem notar HTTP beiðnir til að GET, PUT, POST og DELETE gögnum. API stendur fyrir Application program interface.
